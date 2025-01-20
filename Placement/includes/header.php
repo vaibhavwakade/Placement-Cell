@@ -1,7 +1,7 @@
 
 <?php
     session_start();
-    $con = mysqli_connect("localhost", "root", "", "trinfosoft_entertainment");
+    $con = mysqli_connect("localhost", "root", "", "placement_automation");
 ?>
 <!DOCTYPE html>
 <html>

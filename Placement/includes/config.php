@@ -4,7 +4,7 @@
  */
 define("HOST", "localhost");     // The host you want to connect to.
 define("USER", "root");    // The database username.
-define("PASSWORD","YES");    // The database password.
+define("PASSWORD","system");    // The database password.
 define("DATABASE", "trinfosoft_entertainment");    // The database name.
 
 define("CAN_REGISTER", "any");
